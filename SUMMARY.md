@@ -7,8 +7,8 @@
 
 ## Serveur
 
-* [Touche](serveur/touche.md)
 * [Lore du serveur](serveur/lore-du-serveur.md)
+* [Touche](serveur/touche.md)
 
 ## Role Play
 
