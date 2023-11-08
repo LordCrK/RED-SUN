@@ -1,3 +1,7 @@
+---
+description: https://discord.gg/7FcBnYmDma
+---
+
 # Discord
 
 Soyez respectueux envers tout le monde.
