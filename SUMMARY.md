@@ -8,3 +8,9 @@
 ## Serveur
 
 * [Touche](serveur/touche.md)
+* [Lore du serveur](serveur/lore-du-serveur.md)
+
+## Role Play
+
+* [Lois](role-play/lois.md)
+* [Code Pénal](role-play/code-penal.md)
