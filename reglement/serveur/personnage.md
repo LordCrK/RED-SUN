@@ -1,10 +1,12 @@
-# Serveur
+# Personnage
 
 
 
 {% hint style="info" %}
-PEROSONNAGE
+Votre personnage
 {% endhint %}
+
+
 
 Chacun de vos personnages est unique, le nom de celui-ci doit l’être aussi.
 
@@ -38,5 +40,3 @@ Le Wipe comme la mort RP n’est pas une fatalité.
 Pour vos choix de carrière restez donc cohérent.&#x20;
 
 Un bandit ou un mineur ne va pas devenir sheriff du jour au lendemain juste pour “changer”.
-
-\

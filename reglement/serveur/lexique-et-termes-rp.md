@@ -2,7 +2,7 @@
 
 
 
-{% hint style="info" %}
+{% hint style="success" %}
 Ce qu’il faut faire :
 {% endhint %}
 
@@ -47,7 +47,7 @@ A l'inverse, la nuit les rues sont vides, les gens dorment, il y a moins de pass
 
 
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Ce qui est interdit de faire:
 {% endhint %}
 

@@ -2,9 +2,12 @@
 
 ## Règlement&#x20;
 
-* [Discord](README.md)
-* [Serveur](reglement/serveur.md)
-* [Lexique et Termes RP](reglement/lexique-et-termes-rp.md)
+* [Serveur](README.md)
+  * [Discord](reglement/serveur/discord.md)
+  * [Personnage](reglement/serveur/personnage.md)
+  * [Règles générales](reglement/serveur/regles-generales.md)
+  * [Lexique et Termes RP](reglement/serveur/lexique-et-termes-rp.md)
+  * [Page 1](reglement/serveur/page-1.md)
 
 ## Serveur
 
