@@ -4,6 +4,7 @@
 
 * [Discord](README.md)
 * [Serveur](reglement/serveur.md)
+* [Lexique et Termes RP](reglement/lexique-et-termes-rp.md)
 
 ## Serveur
 
