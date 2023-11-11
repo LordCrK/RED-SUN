@@ -30,7 +30,7 @@ layout:
 [lexique-et-termes-rp.md](reglement/serveur/lexique-et-termes-rp.md)
 {% endcontent-ref %}
 
-{% content-ref url="reglement/serveur/page-1.md" %}
-[page-1.md](reglement/serveur/page-1.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 

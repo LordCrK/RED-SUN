@@ -7,7 +7,7 @@
   * [Personnage](reglement/serveur/personnage.md)
   * [Règles générales](reglement/serveur/regles-generales.md)
   * [Lexique et Termes RP](reglement/serveur/lexique-et-termes-rp.md)
-  * [Page 1](reglement/serveur/page-1.md)
+  * [Entreprise](reglement/serveur/entreprise.md)
 
 ## Serveur
 
