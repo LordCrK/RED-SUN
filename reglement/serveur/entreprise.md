@@ -6,9 +6,6 @@
 Entreprise
 {% endhint %}
 
-\
-
-
 Être patron, tout comme maire ou sheriff demande un investissement régulier afin de ne pas bloquer les autres joueurs. Il vous faut donc être régulier dans vos présence.
 
 \
