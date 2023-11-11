@@ -1,12 +1,22 @@
-# Personnage
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
 
-
+# 👫 Personnage
 
 {% hint style="info" %}
 Votre personnage
 {% endhint %}
-
-
 
 Chacun de vos personnages est unique, le nom de celui-ci doit l’être aussi.
 

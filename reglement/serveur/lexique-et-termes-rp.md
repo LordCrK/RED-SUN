@@ -1,6 +1,18 @@
-# Lexique et Termes RP
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
 
-
+# 📚 Lexique et Termes RP
 
 {% hint style="success" %}
 Ce qu’il faut faire :

@@ -1,6 +1,18 @@
-# Règles générales
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
 
-
+# 📘 Règles générales
 
 {% hint style="info" %}
 Règles générales

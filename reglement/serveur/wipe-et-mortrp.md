@@ -12,5 +12,5 @@ layout:
     visible: true
 ---
 
-# 📕 Code Pénal
+# ☠ Wipe et MortRP
 

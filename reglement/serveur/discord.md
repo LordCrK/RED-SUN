@@ -1,8 +1,20 @@
-# Discord
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
 
-## [https://discord.gg/7FcBnYmDma](https://discord.gg/7FcBnYmDma)
+# 🎧 Discord
 
-
+[https://discord.gg/7FcBnYmDma](https://discord.gg/7FcBnYmDma)
 
 {% hint style="warning" %}
 Comportement&#x20;
