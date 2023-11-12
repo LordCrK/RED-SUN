@@ -24,5 +24,5 @@
 ***
 
 * [⚖ Constitution Americaine](constitution-americaine.md)
-* [🏛 Lois](lois.md)
-* [📕 Code Pénal](code-penal.md)
+* [🏛 Lois](role-play/lois.md)
+* [📕 Code Pénal](role-play/code-penal.md)
