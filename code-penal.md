@@ -5,12 +5,12 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
     visible: true
 ---
 
-# 🏛 Lois
+# 📕 Code Pénal
 
